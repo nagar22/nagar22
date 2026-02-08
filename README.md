@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I’m يوسف النجار
+# 👋 Hello, I’m Yusuf Al-Nagar
 **AI & Software Engineering Enthusiast | Student at Canadian University of Cairo**  
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>  
@@ -13,15 +13,15 @@
 <details>
 <summary>🎵 Currently Coding & Vibing To</summary>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](YOUR_SPOTIFY_LINK)
 
 </details>
 
 ---
 
-## 🔧 Tools & Languages I Use
+## 🛠 Tools & Languages I Use
 
-**Programming:** Dart, Go, Python, JavaScript, Java, C++  
+**Programming Languages:** Dart, Go, Python, JavaScript, Java, C++  
 **Web & Markup:** HTML, CSS, JSON, Markdown  
 **Databases:** Firebase, SQLite, PostgreSQL  
 **Editors & IDEs:** VSCode, Sublime Text, Neovim, Xcode  
@@ -29,13 +29,20 @@
 **Other Tools:** Git, Figma, Photoshop, Gimp, Lightroom  
 
 ```dart
+// Customized for Yusuf Al-Nagar
 class AboutMe {
   const myTools = {  
-    "Languages": { "Dart", "Go", "Python", "Javascript", "Java", "C++" },
+    "Name": "Yusuf Al-Nagar",
+    "Links": {
+      "GitHub": "YOUR_GITHUB_LINK",
+      "Telegram": "YOUR_TELEGRAM_LINK",
+      "Portfolio": "YOUR_PORTFOLIO_LINK"
+    },
+    "ProgrammingLanguages": { "Dart", "Go", "Python", "Javascript", "Java", "C++" },
     "Web": { "HTML", "CSS", "Json", "Markdown" },
     "Databases": { "Firebase", "SQLite", "PostgreSQL" },
     "Editors": { "VSCode", "Xcode", "Sublime", "Neovim" },
     "Platforms": { "Mac", "GNU/Linux", "Windows" },
-    "Other": { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
+    "OtherTools": { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
   };
 }
