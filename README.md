@@ -1,48 +1,52 @@
 <div align="center">
+  <h1>Hi ⚡ I'm Eng. Youssef El Nagar</h1>
+  <p>
+    <b>Computer Engineering student at Ahram Canadian University 👨‍💻</b><br>
+    Interested in Machine Learning, AI, and software development.
+  </p>
 
-# 👋 Hello, I’m Yusuf Al-Nagar
-**AI & Software Engineering Enthusiast | Student at Canadian University of Cairo**  
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>  
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>  
-
+  <a  href="mailto:nagarnagr7515@gmail.com">>
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/yuossef-nagar-9a3000343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
 </div>
 
 ---
 
-<details>
-<summary>🎵 Currently Coding & Vibing To</summary>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](YOUR_SPOTIFY_LINK)
-
-</details>
+### 🛠 AI & ML Skills
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Programming** | `Python (Expert)`, `C++`, `Linux/Bash` |
+| **Machine Learning** | `Scikit-learn`, `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `ML Algorithms` |
+| **Deep Learning** | `TensorFlow`, `Keras`, `PyTorch`, `CNNs`, `RNNs`, `Transformers` |
+| **Data Science** | `EDA`, `Data Preprocessing`, `Feature Engineering`, `Statistical Modeling` |
+| **Deployment & Monitoring** | `MLflow`, `Streamlit`, `Git & GitHub`, `Model Optimization`, `Jupyter Notebook` |
 
 ---
 
-## 🛠 Tools & Languages I Use
+### 🚀 Featured AI Projects
+* **Image Classification:** Built a CNN model to detect objects in images with high accuracy.  
+* **Text Sentiment Analysis:** Developed an NLP model for analyzing social media posts using LSTM and Transformer architectures.  
+* **Machine Learning Models:** Implemented KNN, Decision Trees, and Random Forest classifiers from scratch and using libraries.  
+* **Neural Network Experiments:** Explored activation functions, bias adjustments, and optimization in custom NNs.  
+* **AI Deployment:** Created ML pipelines and deployed models with MLflow and Streamlit for interactive demos.  
 
-**Programming Languages:** Dart, Go, Python, JavaScript, Java, C++  
-**Web & Markup:** HTML, CSS, JSON, Markdown  
-**Databases:** Firebase, SQLite, PostgreSQL  
-**Editors & IDEs:** VSCode, Sublime Text, Neovim, Xcode  
-**Platforms:** Mac, GNU/Linux, Windows  
-**Other Tools:** Git, Figma, Photoshop, Gimp, Lightroom  
+---
 
-```dart
-// Customized for Yusuf Al-Nagar
-class AboutMe {
-  const myTools = {  
-    "Name": "Yusuf Al-Nagar",
-    "Links": {
-      "GitHub": "YOUR_GITHUB_LINK",
-      "Telegram": "YOUR_TELEGRAM_LINK",
-      "Portfolio": "YOUR_PORTFOLIO_LINK"
-    },
-    "ProgrammingLanguages": { "Dart", "Go", "Python", "Javascript", "Java", "C++" },
-    "Web": { "HTML", "CSS", "Json", "Markdown" },
-    "Databases": { "Firebase", "SQLite", "PostgreSQL" },
-    "Editors": { "VSCode", "Xcode", "Sublime", "Neovim" },
-    "Platforms": { "Mac", "GNU/Linux", "Windows" },
-    "OtherTools": { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
-  };
-}
+### 📊 GitHub Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nagar22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagar22&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nagar22&theme=tokyonight&hide_border=true" width="100%" />
+</div>
+
+---
+
+<p align="center">
+  <i>"The future is built with AI – let's create it."</i>
+</p>
