@@ -5,9 +5,6 @@
     Interested in Machine Learning, AI, and software development.
   </p>
 
-  <a  href="[nagarnagar7515@gmail.com](mailto:nagarnagar7515@gmail.com)">>
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/yuossef-nagar-9a3000343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
