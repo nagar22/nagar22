@@ -5,7 +5,7 @@
     Interested in Machine Learning, AI, and software development.
   </p>
 
-  <a  href="mailto:nagarnagr7515@gmail.com">>
+  <a  href="nagarnagr7515@gmail.com">>
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/yuossef-nagar-9a3000343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
@@ -36,10 +36,7 @@
 ---
 
 ###  GitHub Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nagar22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagar22&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nagar22&theme=tokyonight&hide_border=true" width="100%" />
